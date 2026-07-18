@@ -1,6 +1,6 @@
 I do stuff
 
-<img width="200" height="200" alt="pfp" src="https://github.com/0coolwoopet/0coolwoopet/blob/main/pfp.png?raw=true" />
+<img width="200" height="200" alt="pfp" src="https://raw.githubusercontent.com/0coolwoopet/0coolwoopet/refs/heads/main/pfp.png" />
 
 heya i mainly play yeeps and fix mods like [this](https://github.com/0coolwoopet/xdBotcontinued)
 
